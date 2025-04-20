@@ -1,0 +1,26 @@
+{
+"217859195":
+[(5, "EDA well done."), 
+(5, "Predictive task well identified."),
+(5, "Sensible models were chosen and described."),
+(4, "Literature review has scope for improvement."),
+(5, "Results properly presented.")],
+"218022315":
+[(4, "EDA has scope for improvement."),
+(5, "Predictive task well identified."),
+(5, "Sensible models were chosen and described."),
+(4, "Literature review has scope for improvement."),
+(4, "Results could have presented in a better way.")], 
+"218000235":
+[(4, "EDA has scope for improvement."), 
+(5, "Predictive task well identified."),
+(5, "Sensible models were chosen and described."),
+(5, "Literature review was comprehensive."),
+(4, "Results could have presented in a better way.")], 
+"217823177":
+[(5, "EDA well done."),
+(5, "Predictive task well identified."),
+(5, "Sensible models were chosen and described."),
+(5, "Literature review was comprehensive."),
+(5, "Results properly presented.")]
+}
